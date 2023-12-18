@@ -87,7 +87,7 @@ body{font-family: 'Exo', sans-serif;}
  position: absolute;top: 180px; left:290px;z-index:10;border-radius:1%}
 
 .background2{background:#31313A;width: 480px; height: 550px; 
- position: absolute;top: 200px; left:310px;z-index:11;border-radius:1%}
+ position: absolute;top: 200px; left:310px;z-index:11;border-radius:1%} 
 
 .background3{position: absolute;top: 200px; left:310px;z-index:12;}
 
@@ -105,7 +105,7 @@ position: absolute; top:585px; left:310px; font-size: 18px;z-index:15;}
 .links{position: absolute; width:100px; height:100px; top:620px; left:540px;z-index:16;}
 
 .tab{background:#31313A;width: 70px; height: 150px; 
- position: absolute;top: 190px; left:230px;z-index:16;border-radius:2%}
+ position: absolute;top: 190px; left:220px;z-index:16;border-radius:2%} 
 
 @keyframes animate {
 
