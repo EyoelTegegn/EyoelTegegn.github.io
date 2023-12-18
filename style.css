@@ -84,7 +84,7 @@ body{font-family: 'Exo', sans-serif;}
 #parent{position:relative} 
 
 .background1{background:#362B20;width: 480px; height: 550px; 
- position: absolute;top: 190px; left:300px;z-index:10;border-radius:1%}
+ position: absolute;top: 180px; left:290px;z-index:10;border-radius:1%}
 
 .background2{background:#31313A;width: 480px; height: 550px; 
  position: absolute;top: 200px; left:310px;z-index:11;border-radius:1%}
